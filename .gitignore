@@ -1,0 +1,14 @@
+applicationhost.config
+.vs
+ProductService/.vs/ProductService/v16
+packages
+
+# all bin folders
+bin
+
+#obj/Debug
+ProductService/ProductService/obj/Debug
+
+
+ProductService/ProductService/App_Data
+*.cache
