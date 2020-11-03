@@ -8,6 +8,7 @@ bin
 
 #obj/Debug
 ProductService/ProductService/obj/Debug
+ProductApp/ProductApp/obj/Debug
 
 
 ProductService/ProductService/App_Data
